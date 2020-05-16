@@ -34,3 +34,5 @@ jobs:
     - name: Run main
       run: |
         python3 test.py
+        with:
+          a: Mona
